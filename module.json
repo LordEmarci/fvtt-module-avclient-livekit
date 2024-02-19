@@ -1,7 +1,7 @@
 {
-  "id": "avclient-livekit",
-  "name": "avclient-livekit",
-  "title": "LiveKit AVClient",
+  "id": "livekitmarci",
+  "name": "livekitmarci",
+  "title": "Livekit_marci",
   "description": "Use LiveKit to handle A/V",
   "author": "Marci",
   "authors": [
@@ -9,7 +9,7 @@
       "name": "Marci",
     }
   ],
-  "version": "0.0..",
+  "version": "0.0.1",
   "compatibility": {
     "minimum": "9.238",
     "verified": "11"
