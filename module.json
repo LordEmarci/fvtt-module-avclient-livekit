@@ -22,7 +22,7 @@
   "socket": true,
   "url": "https://github.com/LordEmarci/fvtt-module-avclient-livekit",
   "manifest": "https://github.com/LordEmarci/fvtt-module-avclient-livekit/releases/latest/download/module.json",
-  "download": "hhttps://github.com/LordEmarci/fvtt-module-avclient-livekit/releases/latest/download/fvtt-module-avclient-livekit.zip",
+  "download": "https://github.com/LordEmarci/fvtt-module-avclient-livekit/releases/latest/download/fvtt-module-avclient-livekit.zip",
   "readme": "https://github.com/LordEmarci/fvtt-module-avclient-livekit/blob/main/README.md",
   "changelog": "https://github.com/LordEmarci/fvtt-module-avclient-livekit/blob/main/CHANGELOG.md",
   "bugs": "https://github.com/LordEmarci/fvtt-module-avclient-livekit/issues",
